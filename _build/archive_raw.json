@@ -1,0 +1,1282 @@
+[
+{
+"h": "beef-stuffed-peppers-with-refried-beans",
+"t": "Beef Stuffed Peppers with Refried Beans",
+"cat": "plates",
+"prices": [
+12.99
+],
+"pub": "2026-11-01",
+"avail": false,
+"thumb": null,
+"desc": "",
+"ai": false
+},
+{
+"h": "teriyaki-chicken-thighs-over-rice-with-mixed-vegetables",
+"t": "Teriyaki Chicken Thighs over Rice with Mixed Vegetables",
+"cat": "plates",
+"prices": [
+11.99
+],
+"pub": "2026-10-20",
+"avail": false,
+"thumb": null,
+"desc": "",
+"ai": false
+},
+{
+"h": "chicken-fajita-with-rice-and-beans",
+"t": "Chicken Fajita with Rice and Beans",
+"cat": "plates",
+"prices": [
+12.99
+],
+"pub": "2026-10-20",
+"avail": false,
+"thumb": null,
+"desc": "",
+"ai": false
+},
+{
+"h": "sausage-gravy-and-biscuits",
+"t": "Sausage Gravy and Biscuits",
+"cat": "breakfast",
+"prices": [
+9.99
+],
+"pub": "2026-10-05",
+"avail": false,
+"thumb": null,
+"desc": "A comforting breakfast classic made fresh and ready to enjoy! Fluffy, buttery biscuits served with rich, creamy sausage gravy alongside three perfectly scrambled eggs. It\u2019s a hearty, satisfying way to start your day\u2014with all the homemade comfort you love, conveniently prepared for you.",
+"ai": false
+},
+{
+"h": "french-toast-and-bacon",
+"t": "French Toast and Bacon",
+"cat": "breakfast",
+"prices": [
+9.99
+],
+"pub": "2026-09-20",
+"avail": false,
+"thumb": null,
+"desc": "",
+"ai": false
+},
+{
+"h": "chili-mac-and-green-beans",
+"t": "Chili Mac and Green Beans",
+"cat": "pasta",
+"prices": [
+11.99
+],
+"pub": "2026-09-20",
+"avail": false,
+"thumb": null,
+"desc": "Chili mac is a high-protein, comforting meal that combines savory ground beef, tender macaroni pasta, rich tomato sauce, and melted cheese into a perfectly portioned serving.",
+"ai": false
+},
+{
+"h": "chicken-salad-croissant",
+"t": "Chicken Salad Croissant",
+"cat": "salads",
+"prices": [
+9.99
+],
+"pub": "2026-09-07",
+"avail": false,
+"thumb": null,
+"desc": "",
+"ai": false
+},
+{
+"h": "teriyaki-grilled-chicken-wrap-with-mixed-fruit",
+"t": "Teriyaki Grilled Chicken Wrap with Mixed Fruit",
+"cat": "salads",
+"prices": [
+9.99
+],
+"pub": "2026-08-23",
+"avail": false,
+"thumb": null,
+"desc": "Tender grilled chicken tossed in a savory-sweet teriyaki sauce, wrapped with crisp fresh vegetables in a soft flour tortilla. Served with a refreshing side of seasonal mixed fruit for a balanced, flavorful meal that\u2019s perfect for lunch or on the go.",
+"ai": false
+},
+{
+"h": "grilled-chicken-caesar-wrap-with-a-fruit-cup",
+"t": "Grilled Chicken Caesar Wrap with a Fruit Cup",
+"cat": "salads",
+"prices": [
+10.99
+],
+"pub": "2026-07-27",
+"avail": false,
+"thumb": null,
+"desc": "Tender grilled chicken, crisp romaine lettuce, shredded Parmesan cheese, and creamy Caesar dressing, all wrapped in a soft flour tortilla. Served with a refreshing side of fresh seasonal fruit for a delicious and satisfying meal.",
+"ai": false
+},
+{
+"h": "asian-thai-peanut-chicken-wrap",
+"t": "Asian Thai Peanut Chicken Wrap",
+"cat": "salads",
+"prices": [
+0.0
+],
+"pub": "2026-06-29",
+"avail": false,
+"thumb": null,
+"desc": "Tender grilled chicken tossed in a creamy Thai peanut sauce with crisp shredded carrots, fresh cabbage, and crunchy cucumbers, all wrapped in a soft flour tortilla. Served with a refreshing cup of seasonal fresh fruit for a perfectly balanced meal that's packed with bold Asian-inspired flavors.",
+"ai": false
+},
+{
+"h": "southwest-grilled-chicken-wrap",
+"t": "Southwest Grilled Chicken Wrap",
+"cat": "salads",
+"prices": [
+10.99
+],
+"pub": "2026-06-22",
+"avail": false,
+"thumb": null,
+"desc": "Southwest Grilled Chicken Wrap \u2013 Tender grilled chicken, crisp romaine lettuce, black beans, sweet corn, shredded cheddar cheese, and fresh pico de gallo, all drizzled with our zesty southwest sauce and wrapped in a soft flour tortilla. Served with a refreshing fresh fruit cup for a balanced and satisfying meal.",
+"ai": false
+},
+{
+"h": "chicken-bacon-ranch-wrap-with-a-fruit-cup",
+"t": "Chicken Bacon Ranch Wrap with a Fruit Cup",
+"cat": "salads",
+"prices": [
+10.99
+],
+"pub": "2026-04-27",
+"avail": false,
+"thumb": "research/src/img/chicken-bacon-ranch-wrap-with-a-fruit-cup__0.jpg",
+"desc": "Tender grilled chicken, crispy bacon, fresh lettuce, tomatoes, onion and shredded cheddar wrapped in a soft tortilla with our creamy ranch sauce for the perfect balance of savory flavor and crunch. Served with a refreshing side of mixed fruit for a sweet, wholesome finish. A satisfying grab-and-go meal packed with protein and freshness.",
+"ai": false,
+"img": "m/chicken-bacon-ranch-wrap-with-a-fruit-cup.webp"
+},
+{
+"h": "garlic-butter-tilapia-with-roasted-red-potatoes-and-green-beans",
+"t": "Garlic Butter Tilapia with Roasted Red Potatoes and Green Beans",
+"cat": "seafood",
+"prices": [
+12.99
+],
+"pub": "2026-02-16",
+"avail": false,
+"thumb": "research/src/img/garlic-butter-tilapia-with-roasted-red-potatoes-and-green-beans__0.jpg",
+"desc": "Tender, flaky tilapia is pan-seared and finished with rich garlic butter, fresh herbs, and a bright squeeze of lemon for bold yet balanced flavor. Served with crispy roasted red potatoes and green beans, this high-protein meal is wholesome, satisfying and reheats beautifully--making healthy eating simple and delicious.",
+"ai": false,
+"img": "m/garlic-butter-tilapia-with-roasted-red-potatoes-and-green-be.webp"
+},
+{
+"h": "marry-me-chicken-over-linguine-with-green-beans",
+"t": "Marry Me Chicken over Linguine with Green Beans",
+"cat": "pasta",
+"prices": [
+10.99
+],
+"pub": "2026-02-02",
+"avail": false,
+"thumb": "research/src/img/marry-me-chicken-over-linguine-with-green-beans__0.jpg",
+"desc": "Juicy chicken breast smothered in a creamy garlic Parmesan sauce with sun-dried tomatoes and Italian herbs. Served over tender linguine that absorbs every rich, savory bite, with a side of green beans for a balanced finish. A comforting, flavor-packed classic that tastes indulgent while still fitting perfectly into your weekly meal plan!",
+"ai": false,
+"img": "m/marry-me-chicken-over-linguine-with-green-beans.webp"
+},
+{
+"h": "beef-burger-bowl",
+"t": "Beef Burger Bowl",
+"cat": "plates",
+"prices": [
+12.99
+],
+"pub": "2026-01-05",
+"avail": true,
+"thumb": "research/src/img/beef-burger-bowl__0.jpg",
+"desc": "All the flavors of a classic burger\u2014no bun required. Juicy ground beef, crisp onion and pickle, fresh tomato, and a kick of spicy mayo come together in this satisfying meal prep bowl.",
+"ai": false,
+"img": "m/beef-burger-bowl.webp"
+},
+{
+"h": "teriyaki-chicken",
+"t": "Teriyaki Chicken Fried Rice with Steamed Broccoli",
+"cat": "plates",
+"prices": [
+10.99
+],
+"pub": "2026-01-05",
+"avail": false,
+"thumb": "research/src/img/teriyaki-chicken__0.jpg",
+"desc": "Savor the bold flavors of the East with our Teriyaki Chicken Fried Rice with Broccoli meal prep. Tender teriyaki-glazed chicken is tossed with savory fried rice, infused with the aromas of garlic and ginger, and mixed with vibrant broccoli florets. This fusion dish offers a delightful blend of sweet and umami flavors, providing a satisfying and protein-packed meal option.",
+"ai": false,
+"img": "m/teriyaki-chicken.webp"
+},
+{
+"h": "bang-bang-chicken-bowl",
+"t": "Bang Bang Chicken Bowl",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2025-12-01",
+"avail": false,
+"thumb": null,
+"desc": "This flavorful meal prep bowl brings together tender chicken tossed in a creamy, spicy-sweet bang bang sauce. Served over fluffy rice and paired with red bell peppers, shredded carrots, and perfectly roasted broccoli, it\u2019s a vibrant, balanced dish with the perfect kick. Fresh, colorful, and satisfying\u2014these bowls make healthy eating feel indulgent all week long.",
+"ai": false
+},
+{
+"h": "loaded-potato-soup",
+"t": "Loaded Potato Soup",
+"cat": "soups",
+"prices": [
+9.99
+],
+"pub": "2025-11-17",
+"avail": false,
+"thumb": null,
+"desc": "Warm, hearty, and ultra-creamy, this Loaded Potato Soup brings all the comfort of a classic baked potato! Tender diced potatoes simmer in a rich, velvety broth then get topped with crispy bacon, sharp cheddar cheese, and a sprinkle of fresh green onions. It reheats beautifully, making it the perfect cozy lunch or dinner that feels indulgent while still being simple and satisfying. Ideal for busy w",
+"ai": false
+},
+{
+"h": "pineapple-upside-down-cake-high-protein-overnight-oats",
+"t": "Pineapple Upside Down Cake High Protein Overnight Oats",
+"cat": "breakfast",
+"prices": [
+6.99
+],
+"pub": "2025-10-22",
+"avail": false,
+"thumb": "research/src/img/pineapple-upside-down-cake-high-protein-overnight-oats__0.jpg",
+"desc": "",
+"ai": false,
+"img": "m/pineapple-upside-down-cake-high-protein-overnight-oats.webp"
+},
+{
+"h": "creamy-cajun-chicken-fettucine-with-steamed-broccoli",
+"t": "Creamy Cajun Chicken Fettucine with Steamed Broccoli",
+"cat": "pasta",
+"prices": [
+10.99
+],
+"pub": "2025-08-25",
+"avail": false,
+"thumb": null,
+"desc": "Savor the bold flavors of the bayou with every bite of this delectable fettucine dish. Tender chicken is smothered in a velvety, Cajun-spiced sauce that coats each forkful of al dente fettucine. Fresh spinach and parmesan cheese add pops of flavor, while steamed broccoli provides a crisp, healthy counterpart.",
+"ai": false
+},
+{
+"h": "greek-turkey-meatball-over-rice-with-roasted-vegetables",
+"t": "Greek Turkey Meatball with Tzatziki Sauce over Rice with Roasted Vegetables",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2025-08-25",
+"avail": false,
+"thumb": "research/src/img/greek-turkey-meatball-over-rice-with-roasted-vegetables__0.jpg",
+"desc": "Craving a flavor explosion that transports you straight to the Mediterranean? Indulge in our Greek Turkey Meatballs with Tzatziki Sauce over Rice with Roasted Vegetables. Juicy, flavorful turkey meatballs seasoned with authentic Greek spices Creamy, cool tzatziki sauce made with fresh dill, garlic, and cucumber Tender roasted vegetables like red peppers, zucchini, and red onion Fluffy, aromatic ri",
+"ai": false,
+"img": "m/greek-turkey-meatball-over-rice-with-roasted-vegetables.webp"
+},
+{
+"h": "grilled-chicken-caesar-salad",
+"t": "Grilled Chicken Caesar Salad",
+"cat": "salads",
+"prices": [
+10.99
+],
+"pub": "2025-08-12",
+"avail": false,
+"thumb": null,
+"desc": "Grilled chicken Caesar salad featuring succulent sliced chicken breast, crisp romaine, grape tomatoes, shaved parmesan, and crunchy croutons, all tossed in a silky Caesar dressing for a timeless, crowd-pleasing dish.",
+"ai": false
+},
+{
+"h": "grilled-bbq-chicken-salad",
+"t": "Grilled BBQ Chicken Salad",
+"cat": "salads",
+"prices": [
+10.99
+],
+"pub": "2025-06-23",
+"avail": false,
+"thumb": "research/src/img/grilled-bbq-chicken-salad__0.jpg",
+"desc": "This protein-packed salad features tender grilled BBQ chicken over a bed of crisp romaine lettuce, juicy tomatoes, sweet corn, hearty black beans, and fresh green onions. Served with a high-protein creamy ranch dressing and a drizzle of BBQ sauce for the perfect balance of smoky and tangy flavors. A satisfying and nutritious option that's great for lunch or dinner!",
+"ai": false,
+"img": "m/grilled-bbq-chicken-salad.webp"
+},
+{
+"h": "pan-seared-tilapia-with-pineapple-mango-salsa-with-steamed-rice-and-asparagus",
+"t": "Pan-Seared Tilapia with Pineapple Mango Salsa with Steamed Broccoli and Rice",
+"cat": "seafood",
+"prices": [
+10.99
+],
+"pub": "2025-06-16",
+"avail": false,
+"thumb": null,
+"desc": "",
+"ai": false
+},
+{
+"h": "mexican-street-corn-chicken-bowl",
+"t": "Mexican Street Corn Chicken Bowl",
+"cat": "plates",
+"prices": [
+10.99
+],
+"pub": "2025-06-12",
+"avail": false,
+"thumb": "research/src/img/mexican-street-corn-chicken-bowl__0.heic",
+"desc": "",
+"ai": false,
+"img": "m/mexican-street-corn-chicken-bowl.webp"
+},
+{
+"h": "chicken-pasta-a-la-rosa-with-steamed-asparagus",
+"t": "Chicken Pasta a la Rosa with Steamed Asparagus",
+"cat": "pasta",
+"prices": [
+10.99,
+11.99
+],
+"pub": "2025-05-28",
+"avail": false,
+"thumb": "research/src/img/chicken-pasta-a-la-rosa-with-steamed-asparagus__0.jpg",
+"desc": "Indulge in a delectable fusion of flavors with our Chicken Pasta a la Rosa! Savor the perfect balance of grilled chicken, creamy marinara tomato sauce, and vibrant spinach in every bite. Key Features: \u2022 Grilled chicken for a juicy, flavorful protein \u2022 Creamy marinara sauce for a rich, comforting taste \u2022 Fresh spinach for a pop of color and nutrients \u2022 Perfectly cooked pasta to soak up every last d",
+"ai": false,
+"img": "m/chicken-pasta-a-la-rosa-with-steamed-asparagus.webp"
+},
+{
+"h": "high-protein-chocolate-peanut-butter-banana-overnight-oats",
+"t": "High Protein Chocolate Peanut Butter Banana Overnight Oats",
+"cat": "breakfast",
+"prices": [
+6.99
+],
+"pub": "2025-05-28",
+"avail": false,
+"thumb": "research/src/img/high-protein-chocolate-peanut-butter-banana-overnight-oats__0.jpg",
+"desc": "",
+"ai": false,
+"img": "m/high-protein-chocolate-peanut-butter-banana-overnight-oats.webp"
+},
+{
+"h": "creamy-chipotle-shrimp-over-rice-with-steamed-broccoli",
+"t": "Creamy Chipotle Shrimp over Rice with Steamed Broccoli",
+"cat": "seafood",
+"prices": [
+11.99,
+12.5,
+12.99
+],
+"pub": "2025-05-28",
+"avail": false,
+"thumb": null,
+"desc": "",
+"ai": false
+},
+{
+"h": "strawberry-spinach-salad-with-grilled",
+"t": "Strawberry Spinach Salad with Grilled Chicken and Poppyseed Dressing",
+"cat": "salads",
+"prices": [
+10.5
+],
+"pub": "2025-05-19",
+"avail": false,
+"thumb": null,
+"desc": "This salad is a symphony of flavors, textures, and nutrients that will leave you feeling nourished and energized. \u2022 Nutrient-dense spinach and juicy strawberries \u2022 Tender grilled chicken for protein-packed satisfaction \u2022 Crunchy almonds and creamy feta for textural delight \u2022 Bursts of sweetness from mandarin oranges and strawberries The poppyseed dressing ties it all together with a tantalizing bl",
+"ai": false
+},
+{
+"h": "orange-barbeque-glazed-porkchop-with-mashed-potatoes-and-steamed-carrots-and-broccoli",
+"t": "Orange Barbeque-Glazed Porkchop with Roasted Red Potatoes and Steamed Carrots and Broccoli",
+"cat": "plates",
+"prices": [
+10.99
+],
+"pub": "2025-05-19",
+"avail": false,
+"thumb": null,
+"desc": "",
+"ai": false
+},
+{
+"h": "chef-salad-with-ranch-dressing",
+"t": "Chef Salad with Ranch Dressing",
+"cat": "salads",
+"prices": [
+10.99
+],
+"pub": "2025-05-13",
+"avail": false,
+"thumb": "research/src/img/chef-salad-with-ranch-dressing__0.jpg",
+"desc": "",
+"ai": false,
+"img": "m/chef-salad-with-ranch-dressing.webp"
+},
+{
+"h": "tuscan-salmon-with-steamed-rice-and-broccoli",
+"t": "Tuscan Salmon with Steamed Rice and Broccoli",
+"cat": "seafood",
+"prices": [
+11.99,
+12.5
+],
+"pub": "2025-05-13",
+"avail": false,
+"thumb": "research/src/img/tuscan-salmon-with-steamed-rice-and-broccoli__0.jpg",
+"desc": "",
+"ai": false,
+"img": "m/tuscan-salmon-with-steamed-rice-and-broccoli.webp"
+},
+{
+"h": "southwest-grilled-chicken-salad",
+"t": "Southwest Grilled Chicken Salad",
+"cat": "salads",
+"prices": [
+10.99
+],
+"pub": "2025-05-06",
+"avail": false,
+"thumb": "research/src/img/southwest-grilled-chicken-salad__0.jpg",
+"desc": "Craving a flavor-packed meal that won't weigh you down? Our Southwest Grilled Chicken Salad is the answer. Tender grilled chicken breast seasoned with Southwestern spices Crisp mixed greens, juicy tomatoes, protein-packed black beans, sweet corn and more Creamy, zesty spicy ranch dressing High in protein to keep you feeling full",
+"ai": false,
+"img": "m/southwest-grilled-chicken-salad.webp"
+},
+{
+"h": "chicken-gyro-salad",
+"t": "Chicken Gyro Salad",
+"cat": "salads",
+"prices": [
+10.99
+],
+"pub": "2025-04-29",
+"avail": false,
+"thumb": "research/src/img/chicken-gyro-salad__0.png",
+"desc": "",
+"ai": false,
+"img": "m/chicken-gyro-salad.webp"
+},
+{
+"h": "high-protein-mixed-berry-overnight-oats",
+"t": "High Protein Mixed Berry Overnight Oats",
+"cat": "breakfast",
+"prices": [
+6.99
+],
+"pub": "2025-04-22",
+"avail": false,
+"thumb": "research/src/img/high-protein-mixed-berry-overnight-oats__0.jpg",
+"desc": "This is perfect for busy mornings or as a protein-packed snack! Whether you're looking to lose weight, build muscle, or simply eat healthier, our High Protein Mixed Berry Overnight Oats make it easy to enjoy a delicious treat while supporting your wellness goals.",
+"ai": false,
+"img": "m/high-protein-mixed-berry-overnight-oats.webp"
+},
+{
+"h": "ground-turkey-and-sweet-potato-skillet",
+"t": "Ground Turkey and Sweet Potato Skillet",
+"cat": "plates",
+"prices": [
+10.99
+],
+"pub": "2025-04-02",
+"avail": false,
+"thumb": "research/src/img/ground-turkey-and-sweet-potato-skillet__0.heic",
+"desc": "Savor the perfect blend of lean ground turkey and tender, caramelized sweet potatoes in this hearty, one-pan meal. Packed with protein and wholesome carbs, it\u2019s seasoned with a medley of spices and a touch of hot honey to deliver bold flavor in every bite. Quick to heat and easy to enjoy, this skillet is your go-to for a nutritious, satisfying meal that fits any busy lifestyle. Fuel your day the d",
+"ai": false,
+"img": "m/ground-turkey-and-sweet-potato-skillet.webp"
+},
+{
+"h": "buffalo-chicken-wrap",
+"t": "Buffalo Chicken Wrap with Fruit Cup",
+"cat": "salads",
+"prices": [
+10.99
+],
+"pub": "2025-03-20",
+"avail": false,
+"thumb": "research/src/img/buffalo-chicken-wrap__0.jpg",
+"desc": "Experience a burst of flavor with our Buffalo Chicken Wrap! Made with savory grilled chicken, tangy buffalo sauce, and crisp lettuce all wrapped in a warm tortilla. A perfect way to spice up your lunch and satisfy your taste buds!",
+"ai": false,
+"img": "m/buffalo-chicken-wrap.webp"
+},
+{
+"h": "turkey-sausage-fiesta-omelette",
+"t": "Turkey Sausage Fiesta Omelette",
+"cat": "breakfast",
+"prices": [
+10.99
+],
+"pub": "2025-03-18",
+"avail": false,
+"thumb": "research/src/img/turkey-sausage-fiesta-omelette__0.jpg",
+"desc": "Spice up your mornings with our Turkey Sausage Fiesta Omelette! Sizzling turkey sausage blends with melted cheese, crisp peppers, onions, juicy tomatoes, and a kick of queso salsa for a bold, Southwestern-inspired meal. Ready in minutes, it\u2019s a flavorful, hearty dish perfect for breakfast or anytime you crave a savory twist!",
+"ai": false,
+"img": "m/turkey-sausage-fiesta-omelette.webp"
+},
+{
+"h": "the-big-boy",
+"t": "The BIG BOY Burrito",
+"cat": "plates",
+"prices": [
+13.99
+],
+"pub": "2025-03-07",
+"avail": false,
+"thumb": "research/src/img/the-big-boy__0.png",
+"desc": "A MASSIVE burrito packed full of protein. 1 full pound of chicken in each burrito! This is perfect for bulking and building massive gains!",
+"ai": false,
+"img": "m/the-big-boy.webp"
+},
+{
+"h": "breakfast-bulking-burrito",
+"t": "Breakfast Bulking Burrito",
+"cat": "breakfast",
+"prices": [
+9.99
+],
+"pub": "2025-03-01",
+"avail": false,
+"thumb": "research/src/img/breakfast-bulking-burrito__0.jpg",
+"desc": "Looking to start your day with a nutritious and filling breakfast? Look no further than our Breakfast Bulking Burrito! Packed with eggs, turkey sausage, peppers, onions and cheese, this breakfast burrito will keep you full and energized until lunchtime. Say goodbye to boring breakfasts and hello to a delicious and satisfying start to your day!",
+"ai": false,
+"img": "m/breakfast-bulking-burrito.webp"
+},
+{
+"h": "orange-chicken-with-rice-and-steamed-broccoli",
+"t": "Orange Chicken with Rice and Steamed Broccoli",
+"cat": "plates",
+"prices": [
+10.99,
+11.49,
+11.99
+],
+"pub": "2025-02-25",
+"avail": false,
+"thumb": "research/src/img/orange-chicken-with-rice-and-steamed-broccoli__0.jpg",
+"desc": "Craving a delicious, guilt-free takeout classic? Our Orange Chicken is about to blow your taste buds away. \u2022 Gluten-free \u2022 Perfectly balanced flavors of sweet, tangy and savory \u2022 Packed with protein to keep you feeling full and satisfied This dish delivers all the flavor of your favorite Chinese takeout, without any of the grease or guilt!",
+"ai": false,
+"img": "m/orange-chicken-with-rice-and-steamed-broccoli.webp"
+},
+{
+"h": "chicken-tortilla-soup",
+"t": "Chicken Tortilla Soup",
+"cat": "soups",
+"prices": [
+9.99
+],
+"pub": "2025-02-06",
+"avail": true,
+"thumb": "research/src/img/chicken-tortilla-soup__0.jpg",
+"desc": "",
+"ai": false,
+"img": "m/chicken-tortilla-soup.webp"
+},
+{
+"h": "high-protein-cookies-cream-overnight-oats",
+"t": "High Protein Cookies & Cream Overnight Oats",
+"cat": "breakfast",
+"prices": [
+6.99
+],
+"pub": "2025-02-06",
+"avail": false,
+"thumb": "research/src/img/high-protein-cookies-cream-overnight-oats__0.png",
+"desc": "Introducing our High Protein Cookies and Cream Overnight Oats \u2013 the perfect blend of indulgence and nutrition to kickstart your day! Packed with premium protein, these creamy oats deliver a satisfying, muscle-fueling breakfast without sacrificing flavor. Infused with rich, velvety cream and studded with crunchy chocolate cookie bits, every spoonful feels like a treat straight from the bakery. Made",
+"ai": true,
+"img": "m/high-protein-cookies-cream-overnight-oats.webp"
+},
+{
+"h": "broccoli-and-cheese-soup",
+"t": "Broccoli and Cheese Soup",
+"cat": "soups",
+"prices": [
+9.99
+],
+"pub": "2025-01-27",
+"avail": false,
+"thumb": null,
+"desc": "Indulge in our flavorful Broccoli and Cheese Soup! Made with fresh broccoli and creamy cheese, this soup is packed with savory taste and nutritious benefits. Perfect for a comforting meal on a chilly day, or a quick and easy lunch option. Try it now and taste the difference!",
+"ai": false
+},
+{
+"h": "creamy-chicken-and-wild-rice-soup",
+"t": "Creamy Chicken and Wild Rice Soup",
+"cat": "soups",
+"prices": [
+9.99
+],
+"pub": "2025-01-21",
+"avail": false,
+"thumb": "research/src/img/creamy-chicken-and-wild-rice-soup__0.png",
+"desc": "",
+"ai": true,
+"img": "m/creamy-chicken-and-wild-rice-soup.webp"
+},
+{
+"h": "white-chicken-chili",
+"t": "White Chicken Chili",
+"cat": "soups",
+"prices": [
+9.99
+],
+"pub": "2025-01-12",
+"avail": false,
+"thumb": null,
+"desc": "",
+"ai": false
+},
+{
+"h": "high-protein-cinnamon-roll-overnight-oats",
+"t": "High Protein Cinnamon Roll Overnight Oats",
+"cat": "breakfast",
+"prices": [
+6.99
+],
+"pub": "2025-01-09",
+"avail": false,
+"thumb": "research/src/img/high-protein-cinnamon-roll-overnight-oats__0.png",
+"desc": "",
+"ai": true,
+"img": "m/high-protein-cinnamon-roll-overnight-oats.webp"
+},
+{
+"h": "chicken-and-dumpling-soup",
+"t": "Chicken and Dumpling Soup",
+"cat": "soups",
+"prices": [
+9.99
+],
+"pub": "2025-01-09",
+"avail": false,
+"thumb": "research/src/img/chicken-and-dumpling-soup__0.png",
+"desc": "",
+"ai": true,
+"img": "m/chicken-and-dumpling-soup.webp"
+},
+{
+"h": "yum-yum-salmon",
+"t": "Yum Yum Salmon with Steamed Broccoli and Rice",
+"cat": "seafood",
+"prices": [
+13.99,
+14.5,
+14.99
+],
+"pub": "2025-01-08",
+"avail": false,
+"thumb": null,
+"desc": "Sink your teeth into a flavor explosion with Yum Yum Salmon! Smothered in a delectable, tangy sauce and paired with tender broccoli and fluffy rice, this dish is a true delight for the senses.",
+"ai": false
+},
+{
+"h": "protein-pancakes-with-turkey-sausage",
+"t": "Protein Pancakes with Turkey Sausage",
+"cat": "breakfast",
+"prices": [
+9.99
+],
+"pub": "2025-01-01",
+"avail": false,
+"thumb": "research/src/img/protein-pancakes-with-turkey-sausage__0.png",
+"desc": "",
+"ai": true,
+"img": "m/protein-pancakes-with-turkey-sausage.webp"
+},
+{
+"h": "high-protein-strawberry-cheesecake-overnight-oats",
+"t": "High Protein Strawberry Cheesecake Overnight Oats",
+"cat": "breakfast",
+"prices": [
+6.99
+],
+"pub": "2024-12-02",
+"avail": false,
+"thumb": "research/src/img/high-protein-strawberry-cheesecake-overnight-oats__0.png",
+"desc": "This is perfect for busy mornings or as a protein-packed snack! Whether you're looking to lose weight, build muscle, or simply eat healthier, our High Protein Strawberry Cheesecake Overnight Oats make it easy to enjoy a delicious treat while supporting your wellness goals.",
+"ai": true,
+"img": "m/high-protein-strawberry-cheesecake-overnight-oats.webp"
+},
+{
+"h": "brown-sugar-dijon-glazed-salmon-with-roasted-red-potatoes-and-steamed-green-beans",
+"t": "Brown Sugar Dijon Glazed Salmon with Roasted Red Potatoes and Steamed Green Beans",
+"cat": "seafood",
+"prices": [
+11.99
+],
+"pub": "2024-10-07",
+"avail": false,
+"thumb": "research/src/img/brown-sugar-dijon-glazed-salmon-with-roasted-red-potatoes-and-steamed-green-beans__0.png",
+"desc": "",
+"ai": true,
+"img": "m/brown-sugar-dijon-glazed-salmon-with-roasted-red-potatoes-an.webp"
+},
+{
+"h": "bbq-pulled-chicken-with-mac-n-cheese-and-steamed-broccoli",
+"t": "BBQ Pulled Chicken with Mac 'n Cheese and Steamed Broccoli",
+"cat": "pasta",
+"prices": [
+10.99
+],
+"pub": "2024-10-07",
+"avail": false,
+"thumb": "research/src/img/bbq-pulled-chicken-with-mac-n-cheese-and-steamed-broccoli__0.png",
+"desc": "Our BBQ Pulled Chicken is the ultimate comfort food, combining the rich, smoky flavors of barbecue with the creaminess of mac 'n cheese and the freshness of steamed broccoli. It's a complete, balanced meal that will leave you feeling satisfied and energized.",
+"ai": true,
+"img": "m/bbq-pulled-chicken-with-mac-n-cheese-and-steamed-broccoli.webp"
+},
+{
+"h": "broccoli-and-cheese-stuffed-chicken-with-steamed-asparagus",
+"t": "Broccoli and Cheese Stuffed Chicken with Steamed Asparagus",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-10-07",
+"avail": false,
+"thumb": "research/src/img/broccoli-and-cheese-stuffed-chicken-with-steamed-asparagus__0.png",
+"desc": "This Broccoli and Cheese Stuffed Chicken is the ultimate comfort food with a healthy twist. Imagine juicy chicken oozing with a creamy, cheesy center - it's a dish that will transport your taste buds to flavor heaven. And with the added boost of nutrient-rich broccoli and asparagus, you're getting a meal that nourishes your body as well as your soul.",
+"ai": true,
+"img": "m/broccoli-and-cheese-stuffed-chicken-with-steamed-asparagus.webp"
+},
+{
+"h": "asian-beef-and-broccoli",
+"t": "Asian Beef and Broccoli",
+"cat": "plates",
+"prices": [
+12.99,
+13.5,
+13.99
+],
+"pub": "2024-10-07",
+"avail": false,
+"thumb": "research/src/img/asian-beef-and-broccoli__0.png",
+"desc": "Craving an explosion of Asian-inspired flavors? Prepare to fall in love with our Asian Beef and Broccoli dish. The tender beef and crisp broccoli are cooked to perfection and tossed in a mouthwatering sauce, creating a symphony of taste in every bite. This dish is made with liquid aminos instead of soy sauce and is gluten free!",
+"ai": true,
+"img": "m/asian-beef-and-broccoli.webp"
+},
+{
+"h": "creamy-mushroom-chicken-with-mashed-potatoes-and-steamed-asparagus",
+"t": "Creamy Mushroom Chicken with Mashed Potatoes and Steamed Asparagus",
+"cat": "plates",
+"prices": [
+10.99
+],
+"pub": "2024-09-30",
+"avail": false,
+"thumb": "research/src/img/creamy-mushroom-chicken-with-mashed-potatoes-and-steamed-asparagus__0.jpg",
+"desc": "Prepare to have your taste buds dance with delight! Our Creamy Mushroom Chicken is a culinary masterpiece that will transport you to a world of flavor. Tender, juicy chicken smothered in a rich, creamy, garlicky mushroom sauce Served with a side of savory mashed potatoes and fresh, vibrant asparagus Made with high-quality ingredients for maximum taste and nutrition",
+"ai": false,
+"img": "m/creamy-mushroom-chicken-with-mashed-potatoes-and-steamed-asp.webp"
+},
+{
+"h": "shrimp-scampi-over-noodles-with-steamed-asparagus",
+"t": "Shrimp Scampi over Noodles with Steamed Asparagus",
+"cat": "seafood",
+"prices": [
+11.99
+],
+"pub": "2024-09-30",
+"avail": false,
+"thumb": "research/src/img/shrimp-scampi-over-noodles-with-steamed-asparagus__0.jpg",
+"desc": "Shrimp Scampi is a classic Italian-American favorite that's sure to delight your taste buds. The juicy shrimp are saut\u00e9ed to perfection in a rich, garlicky butter sauce, then tossed with noodles and a side of crisp asparagus. It's a restaurant-quality meal you can enjoy in the comfort of your own home.",
+"ai": false,
+"img": "m/shrimp-scampi-over-noodles-with-steamed-asparagus.webp"
+},
+{
+"h": "beef-lasagna-with-steamed-broccoli",
+"t": "Beef Lasagna with Steamed Broccoli",
+"cat": "pasta",
+"prices": [
+10.99
+],
+"pub": "2024-09-30",
+"avail": false,
+"thumb": "research/src/img/beef-lasagna-with-steamed-broccoli__0.jpg",
+"desc": "Craving a hearty, comforting meal that will transport you straight to the heart of Italy? Look no further than our beef lasagna with steamed broccoli! \u2022 Layers of tender pasta, savory ground beef, and creamy ricotta \u2022 Infused with aromatic Italian herbs and spices \u2022 Packed with nutrient-dense broccoli florets \u2022 Baked to bubbly, golden-brown perfection",
+"ai": false,
+"img": "m/beef-lasagna-with-steamed-broccoli.webp"
+},
+{
+"h": "chicken-enchiladas-verdes-with-mexican-rice-and-black-beans",
+"t": "Chicken Enchiladas Verdes",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-23",
+"avail": false,
+"thumb": "research/src/img/chicken-enchiladas-verdes-with-mexican-rice-and-black-beans__0.png",
+"desc": "",
+"ai": true,
+"img": "m/chicken-enchiladas-verdes-with-mexican-rice-and-black-beans.webp"
+},
+{
+"h": "chicken-florentine-with-steamed-broccoli",
+"t": "Chicken Florentine over Penne with Steamed Broccoli",
+"cat": "pasta",
+"prices": [
+10.99,
+11.99
+],
+"pub": "2024-09-23",
+"avail": false,
+"thumb": "research/src/img/chicken-florentine-with-steamed-broccoli__0.png",
+"desc": "Our Chicken Florentine is a flavor-packed dish that will transport your taste buds to new heights. The rich, velvety spinach sauce complements the juicy chicken, while the penne pasta provides a satisfying base and the broccoli adds a crisp, healthy contrast. Whether you're looking for a comforting weeknight dinner or an impressive meal to share with loved ones, this dish is sure to delight.",
+"ai": false,
+"img": "m/chicken-florentine-with-steamed-broccoli.webp"
+},
+{
+"h": "kickin-honey-garlic-chicken",
+"t": "Kickin Honey Garlic Chicken over Rice with Steamed Asparagus",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-22",
+"avail": false,
+"thumb": "research/src/img/kickin-honey-garlic-chicken__0.jpg",
+"desc": "Fuel your body with our delicious Kickin Honey Garlic Chicken! This dish is packed with flavor and nutritious ingredients. Perfect for a quick and easy meal without sacrificing taste or health benefits. Say goodbye to boring meals and hello to a kickin' flavor explosion!",
+"ai": false,
+"img": "m/kickin-honey-garlic-chicken.webp"
+},
+{
+"h": "philly-cheesesteak-bowl",
+"t": "Philly Cheesesteak Bowl",
+"cat": "plates",
+"prices": [
+12.99,
+13.5,
+13.99
+],
+"pub": "2024-09-22",
+"avail": false,
+"thumb": "research/src/img/philly-cheesesteak-bowl__0.png",
+"desc": "Indulge in the iconic flavors of a Philly Cheesesteak with our convenient meal prep bowl. Tender slices of steak are combined with saut\u00e9ed peppers, onions, and mushrooms, served over a bed of fluffy rice and topped with melted provolone cheese. This hearty and satisfying dish will transport your taste buds to the streets of Philadelphia with every bite.",
+"ai": true,
+"img": "m/philly-cheesesteak-bowl.webp"
+},
+{
+"h": "steak-burrito-bowl",
+"t": "Steak Burrito Bowl",
+"cat": "plates",
+"prices": [
+12.99,
+13.5,
+13.99
+],
+"pub": "2024-09-16",
+"avail": false,
+"thumb": "research/src/img/steak-burrito-bowl__0.jpg",
+"desc": "Enjoy the bold, Mexican-inspired flavors without the mess of a traditional burrito. This burrito bowl is a delicious and convenient way to satisfy your Tex-Mex cravings! The savory steak is complemented by the fresh veggies, creamy toppings, and flavorful rice, creating a satisfying and craveable meal.",
+"ai": false,
+"img": "m/steak-burrito-bowl.webp"
+},
+{
+"h": "creamy-garlic-shrimp-over-rice-w-asparagus",
+"t": "Creamy Garlic Shrimp over Rice w/ Asparagus",
+"cat": "seafood",
+"prices": [
+11.99,
+12.5,
+12.99
+],
+"pub": "2024-09-16",
+"avail": true,
+"thumb": "research/src/img/creamy-garlic-shrimp-over-rice-w-asparagus__0.png",
+"desc": "Indulge in our Creamy Garlic Shrimp over Rice with Asparagus, a delectable meal that combines the richness of a velvety garlic cream sauce with succulent shrimp and tender asparagus spears. Served over a bed of fluffy white rice, this dish is a perfect balance of flavors and textures. Elevate your lunch or dinner with this restaurant-quality meal prep option.",
+"ai": true,
+"img": "m/creamy-garlic-shrimp-over-rice-w-asparagus.webp"
+},
+{
+"h": "grilled-chicken-parmesan-over-whole-wheat-penne-w-broccoli",
+"t": "Grilled Chicken Parmesan over Penne with Steamed Broccoli",
+"cat": "pasta",
+"prices": [
+10.99,
+11.99
+],
+"pub": "2024-09-10",
+"avail": true,
+"thumb": "research/src/img/grilled-chicken-parmesan-over-whole-wheat-penne-w-broccoli__0.png",
+"desc": "Savor the perfect blend of classic Italian flavors in our Grilled Chicken Parmesan over Penne. Tender grilled chicken breasts are smothered in a zesty marinara sauce and topped with melted parmesan cheese, served atop a bed of hearty penne pasta. This protein-packed meal is a delicious and convenient option for those seeking a satisfying and nutritious lunch or dinner.",
+"ai": true,
+"img": "m/grilled-chicken-parmesan-over-whole-wheat-penne-w-broccoli.webp"
+},
+{
+"h": "creamy-chicken-orzo-with-steamed-broccoli",
+"t": "Creamy Chicken Sausage Orzo with Steamed Broccoli",
+"cat": "pasta",
+"prices": [
+10.99
+],
+"pub": "2024-09-09",
+"avail": false,
+"thumb": "research/src/img/creamy-chicken-orzo-with-steamed-broccoli__0.jpg",
+"desc": "Enjoy our Creamy Chicken Sausage Orzo, bursting with flavors of garlic, thyme and onion and a hint of spice! Served with a side of steamed broccoli for a complete and satisfying meal!",
+"ai": false,
+"img": "m/creamy-chicken-orzo-with-steamed-broccoli.webp"
+},
+{
+"h": "brown-sugar-and-dijon-glazed-pork-loin-with-mashed-potatoes-and-steamed-broccoli",
+"t": "Brown Sugar and Dijon-glazed Pork Loin with Mashed Potatoes and Steamed Green Beans",
+"cat": "plates",
+"prices": [
+10.99
+],
+"pub": "2024-09-09",
+"avail": false,
+"thumb": "research/src/img/brown-sugar-and-dijon-glazed-pork-loin-with-mashed-potatoes-and-steamed-broccoli__0.jpg",
+"desc": "Our Brown Sugar and Dijon-Glazed Pork Loin is the ultimate in comfort food with a gourmet twist. The sweet and tangy glaze caramelizes to create a delectable, crave-worthy crust, while the pork stays incredibly juicy and flavorful on the inside. Paired with creamy mashed potatoes and fresh steamed green beans, this dish delivers a perfectly balanced, wholesome meal that's sure to satisfy.",
+"ai": false,
+"img": "m/brown-sugar-and-dijon-glazed-pork-loin-with-mashed-potatoes-.webp"
+},
+{
+"h": "teriyaki-salmon-with-steamed-broccoli-over-rice",
+"t": "Teriyaki Salmon with Steamed Broccoli over Rice",
+"cat": "seafood",
+"prices": [
+12.99,
+13.5,
+13.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/teriyaki-salmon-with-steamed-broccoli-over-rice__0.png",
+"desc": "Enjoy a tasty and balanced meal with our Teriyaki Salmon. We pan-sear a 6-ounce fresh salmon fillet and serve it with fluffy white rice and steamed broccoli. It's a healthy and satisfying choice, perfect for a quick lunch or dinner.",
+"ai": true,
+"img": "m/teriyaki-salmon-with-steamed-broccoli-over-rice.webp"
+},
+{
+"h": "teriyaki-ground-turkey-bowl",
+"t": "Teriyaki Ground Turkey Bowl",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-03",
+"avail": true,
+"thumb": "research/src/img/teriyaki-ground-turkey-bowl__0.jpg",
+"desc": "Our Teriyaki Ground Turkey Bowl is a delicious and nutrition meal option. It features savory ground turkey cooked in a tangy teriyaki sauce, served alongside tender carrots and broccoli. Topped with fresh green onions for a bit of extra flavor, this bowl is a satisfying and healthy choice!",
+"ai": false,
+"img": "m/teriyaki-ground-turkey-bowl.webp"
+},
+{
+"h": "pan-seared-salmon-with-steamed-broccoli-over-rice",
+"t": "Sweet Chili Salmon with Steamed Broccoli over Rice",
+"cat": "soups",
+"prices": [
+13.99,
+14.5,
+14.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/pan-seared-salmon-with-steamed-broccoli-over-rice__0.jpg",
+"desc": "Dive into a sea of flavor with our sweet chili salmon, broccoli and rice trio - the perfect catch for your meal prep goals!",
+"ai": false,
+"img": "m/pan-seared-salmon-with-steamed-broccoli-over-rice.webp"
+},
+{
+"h": "sticky-lemon-pepper-chicken-over-rice-w-green-beans",
+"t": "Sticky Honey Lemon Chicken over Rice w/ Green Beans",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/sticky-lemon-pepper-chicken-over-rice-w-green-beans__0.jpg",
+"desc": "Tantalizing honey lemon chicken coated in a sticky, savory glaze awaits you. 5 oz of tender chicken is served atop a bed of fluffy rice, accompanied by crisp green beans for a burst of vibrant flavor and nutrition.",
+"ai": false,
+"img": "m/sticky-lemon-pepper-chicken-over-rice-w-green-beans.webp"
+},
+{
+"h": "rise-and-shine-casserole",
+"t": "Rise and Shine Casserole",
+"cat": "breakfast",
+"prices": [
+9.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/rise-and-shine-casserole__0.png",
+"desc": "Wake up to a delicious breakfast that'll have you feeling energized and ready to take on the day with the Rise and Shine Casserole! Savory sausage links Hashbrowns with peppers, onions and melted cheddar cheese Fluffy eggs",
+"ai": true,
+"img": "m/rise-and-shine-casserole.webp"
+},
+{
+"h": "peppercorn-steak-bites",
+"t": "Peppercorn Steak Bites",
+"cat": "plates",
+"prices": [
+12.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/peppercorn-steak-bites__0.png",
+"desc": "Savor the mouth-watering flavor of our Peppercorn Steak Bites meal! Tender steak bites infused with garlic and a dash of peppercorn for a burst of flavor in every bite. Indulge in this satisfying and convenient meal, perfect for a quick and delicious dinner option.",
+"ai": true,
+"img": "m/peppercorn-steak-bites.webp"
+},
+{
+"h": "parmesan-crusted-lemon-pepper-tilapia-with-red-roasted-potatoes-and-steamed-asparagus",
+"t": "Parmesan-crusted Lemon Pepper Tilapia with Roasted Red Potatoes and Steamed Asparagus",
+"cat": "seafood",
+"prices": [
+12.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/parmesan-crusted-lemon-pepper-tilapia-with-red-roasted-potatoes-and-steamed-asparagus__0.png",
+"desc": "This delectable dish combines the bright, zesty flavors of lemon and the savory richness of Parmesan to create a truly mouthwatering experience. The roasted vegetables add a delightful crunch and sweetness, perfectly complementing the mild white fish. This Parmesan-crusted tilapia is sure to satisfy!",
+"ai": true,
+"img": "m/parmesan-crusted-lemon-pepper-tilapia-with-red-roasted-potat.webp"
+},
+{
+"h": "meatloaf-with-mashed-potatoes-and-broccoli",
+"t": "Meatloaf with Mashed Potatoes and Broccoli",
+"cat": "plates",
+"prices": [
+11.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/meatloaf-with-mashed-potatoes-and-broccoli__0.png",
+"desc": "Experience the ultimate comfort food with this mouthwatering stack of meatloaf, accompanied by smooth mashed potatoes and crisp broccoli. A feast for both the eyes and the taste buds!",
+"ai": false,
+"img": "m/meatloaf-with-mashed-potatoes-and-broccoli.webp"
+},
+{
+"h": "honey-sriracha-ground-turkey-bowl",
+"t": "Honey Sriracha Ground Turkey Bowl",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/honey-sriracha-ground-turkey-bowl__0.png",
+"desc": "This versatile ground turkey packs a flavor wallop that's sure to liven up any dish. The sweet-heat combo of honey and sriracha creates an addictive taste, while the aromatic Asian-inspired seasonings add depth and complexity. It's a guaranteed crowd-pleaser that will have your taste buds singing!",
+"ai": true,
+"img": "m/honey-sriracha-ground-turkey-bowl.webp"
+},
+{
+"h": "ground-turkey-bowl",
+"t": "Seasoned Ground Turkey Bowl",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/ground-turkey-bowl__0.png",
+"desc": "Get ready to fuel your body with our delicious Seasoned Ground Turkey Bowl. Flavorful 93/7 lean ground turkey is paired with fluffy rice, tender broccoli florets, and a zesty pico de gallo for a burst of freshness. This well-balanced meal is perfect for busy individuals seeking a nutritious and satisfying option.",
+"ai": true,
+"img": "m/ground-turkey-bowl.webp"
+},
+{
+"h": "chicken-stir-fry",
+"t": "Chicken Stir Fry",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/chicken-stir-fry__0.jpg",
+"desc": "Elevate your weeknight dinner with our mouthwatering Chicken Stir Fry - a delicious fusion of tender chicken, crisp veggies, and bold Asian flavors!",
+"ai": false,
+"img": "m/chicken-stir-fry.webp"
+},
+{
+"h": "chicken-ricotta-meatballs",
+"t": "Chicken Ricotta Meatballs",
+"cat": "plates",
+"prices": [
+10.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/chicken-ricotta-meatballs__0.jpg",
+"desc": "Indulge in the perfect combination of chicken and ricotta with our Chicken Ricotta Meatballs! Made with high-quality ingredients by our meal prep company, these meatballs are guaranteed to satisfy your cravings for a delicious and nutritious meal. Enjoy them on top of your favorite pasta for a complete and flavorful experience.",
+"ai": false,
+"img": "m/chicken-ricotta-meatballs.webp"
+},
+{
+"h": "chicken-burrito-bowl",
+"t": "Chicken Burrito Bowl over Mexican Rice",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/chicken-burrito-bowl__0.png",
+"desc": "Our Chicken Burrito Bowl is a hearty and flavorful meal that's perfect for any time of day. It's comes with 5 ounces of seasoned chicken over a bed of rice. It is served with black bean and corn salsa, peppers, onions and shredded cheese and red salsa. It's packed full of protein and is a tasty, well-rounded option!",
+"ai": true,
+"img": "m/chicken-burrito-bowl.webp"
+},
+{
+"h": "creamy-tuscan-chicken-w-rice-green-beans",
+"t": "Creamy Tuscan Chicken",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/creamy-tuscan-chicken-w-rice-green-beans__0.png",
+"desc": "Sink your teeth into a flavor explosion with our Creamy Tuscan Chicken! Tender, juicy chicken in a rich, creamy Tuscan-inspired sauce served with fresh, steamed green beans and fluffy rice! This dish is a complete, satisfying meal that will transport your taste buds to the heart of Tuscany.",
+"ai": true,
+"img": "m/creamy-tuscan-chicken-w-rice-green-beans.webp"
+},
+{
+"h": "buffalo-chicken-mac-n-cheese",
+"t": "Buffalo Chicken Mac n Cheese",
+"cat": "pasta",
+"prices": [
+10.99
+],
+"pub": "2024-09-03",
+"avail": true,
+"thumb": "research/src/img/buffalo-chicken-mac-n-cheese__0.png",
+"desc": "Indulge in a mouth-watering fusion of flavors with our Buffalo Chicken Mac n Cheese! Perfect for meal prep, our delicious dish is made with tender chicken, creamy cheese, and a spicy kick of buffalo sauce. Satisfy your cravings and elevate your taste buds with every bite.",
+"ai": true,
+"img": "m/buffalo-chicken-mac-n-cheese.webp"
+},
+{
+"h": "arroz-con-pollo-1",
+"t": "Arroz con Pollo with Mexican Rice",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-03",
+"avail": false,
+"thumb": "research/src/img/arroz-con-pollo-1__0.jpg",
+"desc": "Experience the epitome of convenience and flavor with our Arroz con Pollo meal prep. Our premium rice is infused with aromatic spices and saut\u00e9ed with tender chicken, creating a mouthwatering blend of authentic Latin flavors. Packed with wholesome ingredients and ready to heat and enjoy, this meal prep is the perfect solution for busy individuals seeking a delicious and satisfying meal without the",
+"ai": false,
+"img": "m/arroz-con-pollo-1.webp"
+},
+{
+"h": "chicken-pesto-fettuccine-with-steamed-asparagus",
+"t": "Chicken Pesto Fettuccine with Steamed Asparagus",
+"cat": "pasta",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-02",
+"avail": false,
+"thumb": "research/src/img/chicken-pesto-fettuccine-with-steamed-asparagus__0.jpg",
+"desc": "Elevate your pasta night with our Chicken Pesto Fettuccine - a flavor-packed fusion of tender chicken and vibrant cherry tomatoes tossed in a rich and creamy homemade pesto sauce. Served with crisp, steamed asparagus.",
+"ai": false,
+"img": "m/chicken-pesto-fettuccine-with-steamed-asparagus.webp"
+},
+{
+"h": "asian-zing-ground-turkey",
+"t": "Asian Zing Ground Turkey",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-02",
+"avail": false,
+"thumb": "research/src/img/asian-zing-ground-turkey__0.jpg",
+"desc": "Spice up your life with the bold, mouthwatering flavors of Asian Zing Ground Turkey! This versatile protein packs a punch that'll have you craving more. Made with savory ground turkey, zucchini, mushrooms, and a signature Asian-inspired spice blend Infused with the perfect balance of sweet, sour, and heat!",
+"ai": false,
+"img": "m/asian-zing-ground-turkey.webp"
+},
+{
+"h": "honey-walnut-shrimp-over-rice-with-steamed-broccoli",
+"t": "Honey Walnut Shrimp over Rice with Steamed Broccoli",
+"cat": "seafood",
+"prices": [
+11.99,
+12.5,
+12.99
+],
+"pub": "2024-09-02",
+"avail": false,
+"thumb": "research/src/img/honey-walnut-shrimp-over-rice-with-steamed-broccoli__0.jpg",
+"desc": "Honey Walnut Shrimp is a flavor explosion that will transport your taste buds to a five-star restaurant. The sweet-and-savory sauce coats each shrimp with a delectable glaze, while the walnuts provide a satisfying crunch in every bite. Paired with fluffy rice and fresh broccoli, this dish is a complete and nourishing meal.",
+"ai": false,
+"img": "m/honey-walnut-shrimp-over-rice-with-steamed-broccoli.webp"
+},
+{
+"h": "chicken-quesadilla-with-mexican-rice",
+"t": "Chicken Quesadilla with Mexican Rice",
+"cat": "plates",
+"prices": [
+10.99,
+11.5,
+11.99
+],
+"pub": "2024-09-02",
+"avail": false,
+"thumb": "research/src/img/chicken-quesadilla-with-mexican-rice__0.jpg",
+"desc": "Prepare to embark on a flavor journey like no other with our Chicken Quesadilla. Each bite delivers a harmonious blend of savory chicken, gooey cheese, and vibrant vegetables, all wrapped in a crispy, golden tortilla. Pair it with our zesty Mexican rice for a south-of-the-border experience that will leave your taste buds dancing. Whether you're craving a quick lunch or a satisfying dinner, this qu",
+"ai": false,
+"img": "m/chicken-quesadilla-with-mexican-rice.webp"
+},
+{
+"h": "bbq-pulled-pork-with-mac-n-cheese-and-coleslaw",
+"t": "BBQ Pulled Pork with Mac 'n Cheese and Coleslaw",
+"cat": "pasta",
+"prices": [
+10.5
+],
+"pub": "2024-09-02",
+"avail": false,
+"thumb": "research/src/img/bbq-pulled-pork-with-mac-n-cheese-and-coleslaw__0.jpg",
+"desc": "Our BBQ Pulled Pork is the ultimate crowd-pleaser, delivering all the savory, smoky satisfaction of a backyard barbecue in every bite. Serve it on buns for classic pulled pork sandwiches, or enjoy it as a hearty main dish alongside the comforting mac and cheese and refreshing coleslaw!",
+"ai": false,
+"img": "m/bbq-pulled-pork-with-mac-n-cheese-and-coleslaw.webp"
+},
+{
+"h": "breakfast-bowl",
+"t": "Breakfast Bowl",
+"cat": "breakfast",
+"prices": [
+9.99
+],
+"pub": "2024-09-02",
+"avail": false,
+"thumb": "research/src/img/breakfast-bowl__0.jpg",
+"desc": "Start your day off right with our hearty and delicious breakfast bowl! Fluffy scrambled eggs and savory crumbled sausage are served alongside roasted red potatoes, shredded cheese, and a medley of peppers and onions. This satisfying and nutritious meal is perfect for on-the-go mornings or a leisurely weekend brunch.",
+"ai": false,
+"img": "m/breakfast-bowl.webp"
+}
+]

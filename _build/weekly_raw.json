@@ -1,0 +1,99 @@
+[
+ {
+  "h": "teriyaki-ground-turkey-bowl",
+  "t": "Teriyaki Ground Turkey Bowl",
+  "desc": "Our Teriyaki Ground Turkey Bowl is a delicious and nutrition meal option. It features savory ground turkey cooked in a tangy teriyaki sauce, served alongside tender carrots and broccoli. Topped with fresh green onions for a bit of extra flavor, this bowl is a satisfying and healthy choice!",
+  "variants": [
+   {
+    "id": 44116881506492,
+    "t": "White Rice",
+    "price": 10.99
+   },
+   {
+    "id": 44116881539260,
+    "t": "Brown Rice",
+    "price": 11.5
+   },
+   {
+    "id": 45141951250620,
+    "t": "Quinoa",
+    "price": 11.99
+   }
+  ]
+ },
+ {
+  "h": "creamy-garlic-shrimp-over-rice-w-asparagus",
+  "t": "Creamy Garlic Shrimp over Rice w/ Asparagus",
+  "desc": "Indulge in our Creamy Garlic Shrimp over Rice with Asparagus, a delectable meal that combines the richness of a velvety garlic cream sauce with succulent shrimp and tender asparagus spears. Served over a bed of fluffy white rice, this dish is a perfect balance of flavors and textures. Elevate your lunch or dinner with this restaurant-quality meal prep option.",
+  "variants": [
+   {
+    "id": 44128584597692,
+    "t": "White Rice",
+    "price": 11.99
+   },
+   {
+    "id": 44128584630460,
+    "t": "Brown Rice",
+    "price": 12.5
+   },
+   {
+    "id": 45141951021244,
+    "t": "Quinoa",
+    "price": 12.99
+   }
+  ]
+ },
+ {
+  "h": "grilled-chicken-parmesan-over-whole-wheat-penne-w-broccoli",
+  "t": "Grilled Chicken Parmesan over Penne with Steamed Broccoli",
+  "desc": "Savor the perfect blend of classic Italian flavors in our Grilled Chicken Parmesan over Penne. Tender grilled chicken breasts are smothered in a zesty marinara sauce and topped with melted parmesan cheese, served atop a bed of hearty penne pasta. This protein-packed meal is a delicious and convenient option for those seeking a satisfying and nutritious lunch or dinner.",
+  "variants": [
+   {
+    "id": 45141949939900,
+    "t": "Penne",
+    "price": 10.99
+   },
+   {
+    "id": 45141949972668,
+    "t": "Quinoa",
+    "price": 11.99
+   }
+  ]
+ },
+ {
+  "h": "buffalo-chicken-mac-n-cheese",
+  "t": "Buffalo Chicken Mac n Cheese",
+  "desc": "Indulge in a mouth-watering fusion of flavors with our Buffalo Chicken Mac n Cheese! Perfect for meal prep, our delicious dish is made with tender chicken, creamy cheese, and a spicy kick of buffalo sauce. Satisfy your cravings and elevate your taste buds with every bite.",
+  "variants": [
+   {
+    "id": 43498702995644,
+    "t": "Default Title",
+    "price": 10.99
+   }
+  ]
+ },
+ {
+  "h": "beef-burger-bowl",
+  "t": "Beef Burger Bowl",
+  "desc": "All the flavors of a classic burger\u2014no bun required. Juicy ground beef, crisp onion and pickle, fresh tomato, and a kick of spicy mayo come together in this satisfying meal prep bowl.",
+  "variants": [
+   {
+    "id": 45663956271292,
+    "t": "Default Title",
+    "price": 12.99
+   }
+  ]
+ },
+ {
+  "h": "chicken-tortilla-soup",
+  "t": "Chicken Tortilla Soup",
+  "desc": "",
+  "variants": [
+   {
+    "id": 44505117753532,
+    "t": "Default Title",
+    "price": 9.99
+   }
+  ]
+ }
+]
